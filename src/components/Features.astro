@@ -33,7 +33,10 @@ const featuresData = [
 	<div class="container">
 		{
 			featuresData.map((data) => (
-				<Card title={data.title} body={data.body} dark={true} />
+				<Card dark={true}>
+					<h3>{data.title}</h3>
+					<p>{data.body}</p>
+				</Card>
 			))
 		}
 	</div>
