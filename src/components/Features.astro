@@ -22,12 +22,20 @@ const featuresData = [
 		title: 'Lazy-Loading Islands',
 		body: "Components only hydrate when they scroll into view. If you don't see it, Astro won't load it.",
 	},
+	{
+		title: 'Seamless integration with existing tools',
+		body: 'Astro integrates with existing tools and frameworks such as React, Vue JS and Tailwind CSS.',
+	},
 ];
 ---
 
 <section class="features">
 	<div class="container">
-		{featuresData.map((data) => <Card title={data.title} body={data.body} dark={true} />)}
+		{
+			featuresData.map((data) => (
+				<Card title={data.title} body={data.body} dark={true} />
+			))
+		}
 	</div>
 </section>
 
