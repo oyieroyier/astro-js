@@ -1,18 +1,29 @@
 ---
 export interface Props {
-	activeTextColor: string;
+	activeTextColor?: string;
+	headings: string[];
+	contents: string[];
 }
 
-const { activeTextColor = '#A741FF' } = Astro.props as Props;
+const {
+	activeTextColor = '#A741FF',
+	headings,
+	contents,
+} = Astro.props as Props;
 ---
 
 <div class="tabs">
 	<ul class="tabs-header">
-		<li class="default-tab">NPM</li>
-		<li>PNPM</li>
-		<li>YARN</li>
+		{headings.map((heading) => <li>{heading}</li>)}
 	</ul>
 	<ul class="tabs-content">
+		{
+			contents.map((content) => (
+				<li class="tab">
+					<code> {content}</code>
+				</li>
+			))
+		}
 		<li class="tab">
 			<code>$ npm create astro@latest</code>
 		</li>
