@@ -1,0 +1,9 @@
+---
+title: Astro 1.0
+slug: astro-1-0
+excerpt: Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates exercitationem error saepe labore unde. Molestiae suscipit neque voluptatem facere. Placeat sapiente rem iste quae. Deserunt, voluptate error. Neque, inventore beatae?
+date: 08-06-2022
+author: Bob Oyier
+---
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi dolores amet eaque in exercitationem, optio hic velit vel sapiente culpa id sit ex molestias! Nisi aliquid, necessitatibus harum quia nostrum deleniti fugit illo culpa tenetur rem repellat? Enim quisquam soluta et, nobis minus eaque repudiandae eveniet optio doloribus ad mollitia ipsam commodi voluptatem fugit vero! Consequatur facere accusamus repellat, debitis unde possimus voluptatem quas nisi est placeat autem, enim optio blanditiis excepturi at ut suscipit ducimus ea animi, recusandae cum exercitationem consectetur reiciendis? Quia dicta, nostrum, itaque asperiores nulla beatae ipsum cumque quam quaerat neque, velit nemo accusantium aut vitae doloremque quod autem eum fuga voluptatem voluptatum cupiditate praesentium. Ullam dolore aliquam similique id nobis corrupti atque, eaque eos vero amet eum magni. Error, quisquam itaque unde vel eius eum! Ut voluptatum quibusdam at repellat! Odio quo pariatur consectetur ipsa nam, laboriosam, accusamus explicabo, atque iste ut ab quis mollitia! Totam quaerat neque delectus commodi iusto. Nemo, natus. Mollitia esse nam laboriosam ex! Repellat dignissimos cum veritatis consequatur eveniet consequuntur, dolores quis tempore sunt enim mollitia maiores eligendi totam quo, sint consectetur? Laboriosam deserunt corrupti nam eius eligendi molestiae ad aspernatur aliquid? Earum ipsam neque doloribus iste et iusto porro.
