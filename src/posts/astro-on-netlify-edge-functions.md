@@ -1,7 +1,7 @@
 ---
 title: Astro On Netlify Edge Functions
 slug: astro-on-netlify-edge-functions
-excerpt: Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates exercitationem error saepe labore unde. Molestiae suscipit neque voluptatem facere. Placeat sapiente rem iste quae. Deserunt, voluptate error. Neque, inventore beatae?
+excerpt: Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates exercitationem error saepe labore unde. Molestiae suscipit neque voluptatem facere. Placeat sapiente rem iste quae. Deserunt, voluptate error. Neque, inventore beatae
 date: 09-06-2022
 author: Ogada Otieno
 ---
